@@ -4,8 +4,8 @@
 
 .ghost {
   position: relative;
-  margin-left: 420px;
-  width: 400px;
-  height: 300px;
-  background-color: blueviolet;
+  margin-left: 150px;
+  width: 200px;
+  height: 200px;
+  background-color: red;
 }
