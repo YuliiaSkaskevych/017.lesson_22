@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+}
+
+.ghost {
+  position: relative;
+  margin-left: 150px;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
